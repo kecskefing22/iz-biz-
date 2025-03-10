@@ -1,0 +1,8 @@
+A tananyag témája
+
+1. Digitélis áramkörök építése, tervezése
+2. Erősítők készítése
+3. Nyomtatott áramkör tervezése és készítése
+4. Ellenállás, Kondenzátor, Tranzisztor, FET, Integrált áramkörök
+5. Analóg áramkör készítése
+6. AVR programozás
