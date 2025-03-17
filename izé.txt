@@ -6,3 +6,17 @@ A tananyag témája
 4. Ellenállás, Kondenzátor, Tranzisztor, FET, Integrált áramkörök
 5. Analóg áramkör készítése
 6. AVR programozás
+
+Milyen alakatrészeket tanultunk, ezek mire valók?
+
+1. Ellanállások
+2. Kondenzátorok
+3. Tranzisztorok
+4. Félvezetők
+5. FET
+
+Milyen áramköröket lehet elkészíteni ezekből?
+
+1. Integrált áramkörök
+2. BJT
+3. RC szűrő
